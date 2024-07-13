@@ -2,13 +2,13 @@
 
 This repo contains the basics of python for my next job hunt.
 
-1. [Fundamentals unit in Python]
+1. [Fundamental unit in Python]
 2. [Anatomy of an object in python]
 3. [Assignment Operator]
 
 ---
 
-[Fundamentals of Python]: #fundamentals-unit-in-python
+[Fundamental unit in Python]: #fundamentals-unit-in-python
 [Anatomy of an object in python]: #anatomy-of-an-object-in-python
 [Assignment Operator]: #assignment-operator
 
