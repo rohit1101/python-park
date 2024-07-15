@@ -87,3 +87,22 @@ iron_man = hulk = captain_america ="avenger"
 **NOTE: In python variable names are case-sensitive meaning `age` and `AGE` are completely different variables with unique object id**
 
 ---
+### Comments 
+
+#### Single line comment:
+
+```python3
+# This is a single line comment
+```
+
+#### Multi-line comment:
+
+Pro-tip from the creator of python => [pro-tip](https://x.com/gvanrossum/status/112670605505077248)
+
+```python3
+'''
+This is a multi-line comment 
+which involves multiple lines of instructions
+'''
+```
+---
