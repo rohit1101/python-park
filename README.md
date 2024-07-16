@@ -27,6 +27,13 @@ Types of tokens:
 Finally, I feel liberated because Everything in python is an `object`, every JavaScript developer can understand the feeling of objects 😆
 Check this out -> [Is Everything an object in python ?](https://stackoverflow.com/questions/865911/is-everything-an-object-in-python-like-ruby)
 
+To view all the keywords in python3 follow the below steps:
+- Run `python3` command in your terminal
+- Import the keyword module -> `import keyword`
+- Finally run -> `print(keyword.kwlist)`
+
+  <img width="1438" alt="image" src="https://github.com/user-attachments/assets/91b56572-8426-430b-aa83-c86011b8dd65">
+
 ---
 
 ### Anatomy of an object in python
