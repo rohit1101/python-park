@@ -6,7 +6,7 @@ This repo contains the basics of python for my next job hunt.
 2. [Anatomy of an object in python]
 3. [Assignment Operator]
 4. [Comments]
-5. [Identation]
+5. [Mutable & Immutable Objects in Python]
 
 
 ---
@@ -15,7 +15,7 @@ This repo contains the basics of python for my next job hunt.
 [Anatomy of an object in python]: #anatomy-of-an-object-in-python
 [Assignment Operator]: #assignment-operator
 [Comments]: #comments
-[Identation]: #identation
+[Mutable & Immutable Objects in Python]: #mutable-&-immutable-objects-in-python
 
 
 ### Fundamentals unit in Python
@@ -119,4 +119,9 @@ which involves multiple lines of instructions
 ```
 ---
 
-### Identation
+### Mutable & Immutable Objects in Python:
+
+Mutable objects -> list, dictionaries, set, byte array
+
+Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Frozensets
+
