@@ -15,7 +15,7 @@ This repo contains the basics of python for my next job hunt.
 [Anatomy of an object in python]: #anatomy-of-an-object-in-python
 [Assignment Operator]: #assignment-operator
 [Comments]: #comments
-[Mutable & Immutable Objects in Python]: #mutable-&-immutable-objects-in-python
+[Mutable & Immutable Objects in Python]: #mutable--immutable-objects-in-python
 
 
 ### Fundamentals unit in Python
