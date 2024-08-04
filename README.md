@@ -123,5 +123,10 @@ which involves multiple lines of instructions
 
 Mutable objects -> list, dictionaries, set, byte array
 
+<img width="974" alt="image" src="https://github.com/user-attachments/assets/0577286e-199f-4cc3-8770-c4ec06dc57a0">
+
 Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Frozensets
+
+<img width="1071" alt="image" src="https://github.com/user-attachments/assets/8c097d47-7359-4d8a-bc1b-12b3de9c4906">
+
 
