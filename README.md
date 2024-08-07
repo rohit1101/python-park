@@ -156,3 +156,9 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 - `==` for checking if LHS operand is equal to RHS operand
 - `!=` for checking if LHS operand is not equal to RHS operand
   <img width="477" alt="image" src="https://github.com/user-attachments/assets/cace17cd-83e9-4db1-ae3c-cd8b45f7d620">
+
+#### Logical operators:
+
+- `not` operator is similar to boolean `NOT` gate used for negation
+- `or` operator is similar to boolean `OR` gate used for checking if either of two values are `True`
+- `and` operator is similar to boolean `AND` gate used as a hard rule for both two values to be `True`
