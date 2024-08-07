@@ -7,6 +7,7 @@ This repo contains the basics of python for my next job hunt.
 3. [Assignment Operator]
 4. [Comments]
 5. [Mutable & Immutable Objects in Python]
+6. [Operators in Python]
 
 
 ---
@@ -16,6 +17,7 @@ This repo contains the basics of python for my next job hunt.
 [Assignment Operator]: #assignment-operator
 [Comments]: #comments
 [Mutable & Immutable Objects in Python]: #mutable--immutable-objects-in-python
+[Operators in Python]: #operators-in-python
 
 
 ### Fundamentals unit in Python
@@ -129,4 +131,28 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 
 <img width="1071" alt="image" src="https://github.com/user-attachments/assets/8c097d47-7359-4d8a-bc1b-12b3de9c4906">
 
+---
 
+### Operators in Python
+
+#### Arithimetic operators:
+
+- `+` for addition operation
+- `-` for substraction operation
+- `*` for multiplication operation
+- `**` for exponential operation
+- `/` for floating point division which returns quotient in floating point
+- `//` for floor division which returns quotient in integer
+- `%` for modulo division
+
+  <img width="488" alt="image" src="https://github.com/user-attachments/assets/33fa249d-86c8-4a77-8ab6-4f94ba2707ed">
+
+#### Relational operators:
+
+- `>` for checking if LHS operand is greater than RHS operand
+- `<` for checking if LHS operand is less than RHS operand
+- `>=` for checking if LHS operand is greater than or equal to RHS operand
+- `<=` for checking if LHS operand is less than or equal to RHS operand
+- `==` for checking if LHS operand is equal to RHS operand
+- `!=` for checking if LHS operand is not equal to RHS operand
+  <img width="477" alt="image" src="https://github.com/user-attachments/assets/cace17cd-83e9-4db1-ae3c-cd8b45f7d620">
