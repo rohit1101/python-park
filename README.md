@@ -162,3 +162,7 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 - `not` operator is similar to boolean `NOT` gate used for negation
 - `or` operator is similar to boolean `OR` gate used for checking if either of two values are `True`
 - `and` operator is similar to boolean `AND` gate used as a hard rule for both two values to be `True`
+
+#### Short-hand operators:
+- `+=` 
+
