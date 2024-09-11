@@ -173,15 +173,32 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 - `//=` is a shorthand for `x=x//1` which can be written as `x//=1`
 
 #### Membership operators
-- `in` operator is used for checking if a character or substring exists in a string and returns `True` else `False`
+- `in` operator is used for checking if a character or substring exists in a string and return `True` else `False`
   Example:
   ```python
     name='Bruce Wayne'
     print('Bruce' in name) // True
   ```
-- `not in` operator is used for checking if a character or substring does not exist in a string and returns `True` else `False`
+- `not in` operator is used for checking if a character or substring does not exist in a string and return `True` else `False`
   Example:
   ```python
     name='Bruce Wayne'
     print('Robin' in name) // True
+  ```
+
+#### Identity operators
+- `is` operator is used to check if two objects point to the same memory address and return `True` else `False`
+  Example:
+  ```python
+    a=100
+    b=a
+    print(a is b) // True
+  ```
+
+- `is not` operator is used to check if two objects do not point to the same memory address and return `True` else `False`
+  Example:
+  ```python
+    a=100
+    b=500
+    print(a is not b) // True
   ```
