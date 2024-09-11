@@ -171,3 +171,17 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 - `%=` is a shorthand for `x=x%1` which can be written as `x%=1`
 - `**=` is a shorthand for `x=x**1` which can be written as `x**=1`
 - `//=` is a shorthand for `x=x//1` which can be written as `x//=1`
+
+#### Membership operators
+- `in` operator is used for checking if a character or substring exists in a string and returns `True` else `False`
+  Example:
+  ```python
+    name='Bruce Wayne'
+    print('Bruce' in name) // True
+  ```
+- `not in` operator is used for checking if a character or substring does not exist in a string and returns `True` else `False`
+  Example:
+  ```python
+    name='Bruce Wayne'
+    print('Robin' in name) // True
+  ```
