@@ -164,5 +164,10 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 - `and` operator is similar to boolean `AND` gate used as a hard rule for both two values to be `True`
 
 #### Short-hand operators:
-- `+=` 
-
+- `+=` is a shorthand for `x=x+1` which can be written as `x+=1`
+- `-=` is a shorthand for `x=x-1` which can be written as `x-=1`
+- `*=` is a shorthand for `x=x*1` which can be written as `x*=1`
+- `/=` is a shorthand for `x=x/1` which can be written as `x/=1`
+- `%=` is a shorthand for `x=x%1` which can be written as `x%=1`
+- `**=` is a shorthand for `x=x**1` which can be written as `x**=1`
+- `//=` is a shorthand for `x=x//1` which can be written as `x//=1`
