@@ -8,7 +8,7 @@ This repo contains the basics of python for my next job hunt.
 4. [Comments]
 5. [Mutable & Immutable Objects in Python]
 6. [Operators in Python]
-
+7. [Types of errors]
 
 ---
 
@@ -18,6 +18,7 @@ This repo contains the basics of python for my next job hunt.
 [Comments]: #comments
 [Mutable & Immutable Objects in Python]: #mutable--immutable-objects-in-python
 [Operators in Python]: #operators-in-python
+[Types-of-errors]: #types-of-errors
 
 
 ### Fundamentals unit in Python
@@ -202,3 +203,11 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
     b=500
     print(a is not b) // True
   ```
+---
+
+### Types of errors
+
+- Logical
+- Semantic
+- Syntax
+- Runtime
