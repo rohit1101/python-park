@@ -208,6 +208,14 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 ### Types of errors
 
 - Logical
+  ```python3
+  print(10+4/2) # output is 12 which is wrong.
+  print((10+4)/2) # 7 is the correct output in this case.
+  ```  
 - Semantic
 - Syntax
+  ```python3
+  # example of a syntax error
+  Print("hello world")
+  ```
 - Runtime
