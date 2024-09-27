@@ -18,7 +18,7 @@ This repo contains the basics of python for my next job hunt.
 [Comments]: #comments
 [Mutable & Immutable Objects in Python]: #mutable--immutable-objects-in-python
 [Operators in Python]: #operators-in-python
-[Types-of-errors]: #types-of-errors
+[Types of errors]: #types-of-errors
 
 
 ### Fundamentals unit in Python
