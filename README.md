@@ -219,3 +219,9 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
   Print("hello world")
   ```
 - Runtime
+  ```python3
+  # example of a runtime error
+  print(10/0)
+  # calling an a function which is not declared
+  getExpense()
+  ```
