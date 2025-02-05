@@ -9,6 +9,7 @@ This repo contains the basics of python for my next job hunt.
 5. [Mutable & Immutable Objects in Python]
 6. [Operators in Python]
 7. [Types of errors]
+8. [venv module]
 
 ---
 
@@ -19,6 +20,7 @@ This repo contains the basics of python for my next job hunt.
 [Mutable & Immutable Objects in Python]: #mutable--immutable-objects-in-python
 [Operators in Python]: #operators-in-python
 [Types of errors]: #types-of-errors
+[venv module]: #venv-module
 
 
 ### Fundamentals unit in Python
@@ -228,7 +230,7 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
 
   ---
 
-  ### Use of venv module in python
+### venv module
 
 `venv` module helps us maintain the python and application dependancies version self-contained within a directory which means we can create unique venv environment for each python applications with desired version and dependancies.
 
