@@ -225,3 +225,26 @@ Immutable objects -> Tuples, Strings, integers, floats, Boolean, Bytes and Froze
   # calling an a function which is not declared
   getExpense()
   ```
+
+  ---
+
+  ### Use of venv module in python
+
+`venv` module helps us maintain the python and application dependancies version self-contained within a directory which means we can create unique venv environment for each python applications with desired version and dependancies.
+
+A good example of venv is when we have multiple applications and when all the applications require specific version of a python library then for each application we can isolate the dependacies with venv
+
+Create a venv directory:
+
+`python3 -m venv <directory-name>`
+
+Activate the venv: (macOS or Linux)
+
+`source <directory-name>/bin/activate`
+
+Deactivate the venv: (macOS or Linux)
+
+`deactivate`
+
+
+
