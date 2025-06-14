@@ -248,5 +248,8 @@ Deactivate the venv: (macOS or Linux)
 
 `deactivate`
 
+Upgrade pip to the updated version: (macOS or Linux):
+
+`python3 -m pip install --upgrade pip`
 
 
