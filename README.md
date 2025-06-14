@@ -252,4 +252,7 @@ Upgrade pip to the updated version: (macOS or Linux):
 
 `python3 -m pip install --upgrade pip`
 
+Add .gitignore for .venv folder: (macOS or Linux):
+
+`echo "*" > .venv/.gitignore`
 
