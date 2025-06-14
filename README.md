@@ -29,7 +29,7 @@ Token is a **smallest** and **fundamental** unit of a python script.
 
 Types of tokens:
 - **Punctuators** - `[]`, `{}`, `()` 
-- **Literals** - "hello" is a string literal, 5 is a integer literal, 3.0 is a flot literal and so on which basically means a single thing in a program
+- **Literals** - "hello" is a string literal, 5 is a integer literal, 3.0 is a float literal and so on which basically means a single thing in a program
 - **Keyword** - think of it as predefined "words" in the python language which we cannot use anywhere in a script.
 - **Identifier** - Name(s) that we provide for a variable
 - **Operators** - Basic operators like `+`, `-`, `*`, `\`, `\\`, `%` and advanced operators like `and`, `or`, `not`, `in`, and `not in` etc.
