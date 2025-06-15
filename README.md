@@ -244,6 +244,16 @@ Activate the venv: (macOS or Linux)
 
 `source <directory-name>/bin/activate`
 
+What does activating a virtual environment do ?
+
+Activating a virtual environment adds its path .venv/bin (on Linux and macOS) to the PATH environment variable.
+
+Like the following:
+
+```bash
+/home/user-name/folder/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+```
+
 Deactivate the venv: (macOS or Linux)
 
 `deactivate`
